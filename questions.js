@@ -55,7 +55,7 @@ let SuppressionDernierElement =  (langages) => {
 }
 
 let ConversionChaineTableau =  (reseaux_sociaux_chaine) => {
-
+    
     return reseaux_sociaux_chaine.split(","); // use the "," to split into an array 
 
 }
